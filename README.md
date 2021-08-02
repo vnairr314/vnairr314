@@ -10,8 +10,8 @@ My name is Varun Nair and i am an Application Security Engineer living in Los An
 
 <h3 align="left">Languages and Tools:</h3>
 
-[![C](https://img.shields.io/badge/-A8B9CC?style=flat&logo=c&logoColor=white)] 
-[![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python)] 
+![C](https://img.shields.io/badge/-A8B9CC?style=flat&logo=c&logoColor=blue&link=cprogramming.com)
+![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python)
 [![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=java&logoColor=white&link=https://github.com/hritik5102)](https://github.com/hritik5102) 
 [![Go](https://img.shields.io/badge/-Go-black?style=flat&logo=go&link=https://github.com/hritik5102)](https://github.com/hritik5102)
 
