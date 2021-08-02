@@ -2,11 +2,10 @@
 
 My name is Varun Nair and i am an Application Security Engineer living in Los Angeles, CA and currently working at The Home Depot. 
 
-[![Twitter Badge](https://img.shields.io/badge/@eallion-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/eallion)](https://twitter.com/eallion) 
-[![Blog Badge](https://img.shields.io/badge/eallion.com-FF4088?style=flat&labelColor=FF4088&logo=Hugo&logoColor=white&link=https://eallion.com/)](https://eallion.com/)
-[![Gmail Badge](https://img.shields.io/badge/eallions@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:eallions@gmail.com)](mailto:eallions@gmail.com) 
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=eallion.eallion)
-![](https://komarev.com/ghpvc/?username=eallion&color=0366d6)
+---------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vnairr314/)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:vnairr314@gmail.com)
 
 <h3 align="left">Languages and Tools:</h3>
 
