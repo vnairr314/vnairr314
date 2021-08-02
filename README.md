@@ -1,6 +1,6 @@
 ### Hello 👋
 
----------------------------------------------------------------------------------------------------------------------------------------------------
+- - -
 
 My name is Varun Nair and i am an Application Security Engineer living in Los Angeles, CA and currently working at The Home Depot. 
 
