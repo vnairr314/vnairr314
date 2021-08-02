@@ -1,13 +1,13 @@
 ### Hello 👋
 
-My name is Varun Nair and i am an Application Security Engineer living in Los Angeles, CA and currently working at The Home Depot. 
-
 ---------------------------------------------------------------------------------------------------------------------------------------------------
+
+My name is Varun Nair and i am an Application Security Engineer living in Los Angeles, CA and currently working at The Home Depot. 
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vnairr314/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:vnairr314@gmail.com)
 
-<h3 align="left">Languages and Tools:</h3>
+### Languages & Tools
 
 ![C](https://img.shields.io/badge/-A8B9CC?style=flat&logo=c&logoColor=blue&link=cprogramming.com)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python)
