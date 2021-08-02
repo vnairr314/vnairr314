@@ -19,6 +19,4 @@ My name is Varun Nair and i am an Application Security Engineer living in Los An
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vnairr314&show_icons=true&locale=en&layout=compact" alt="vnairr314" /></p>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vnairr314&label=Profile%20views&color=0e75b6&style=flat" alt="vnairr314" /> </p>
