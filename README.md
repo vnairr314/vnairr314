@@ -5,9 +5,9 @@ My name is Varun Nair and i am an Application Security Engineer living in Los An
 
 <h2 align="left">Languages and Tools:</h2>
 
-![](https://img.shields.io/badge/-C-333333?style=flat&logo=c&logoColor=white)
-![](https://img.shields.io/badge/-C++-333333?style=flat&logo=c%2B%2B&logoColor=white)
-![](https://img.shields.io/badge/-Python-333333?style=flat&logo=c%2B%2B&logoColor=white)
+![](https://img.shields.io/badge/-C-333333?style=flat&logo=c&logoColor=blue)
+![](https://img.shields.io/badge/-C++-333333?style=flat&logo=c%2B%2B&logoColor=blue)
+![](https://img.shields.io/badge/-Python-333333?style=flat&logo=python&logoColor=yellow)
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
 ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=Linux&logoColor=FCC624)
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
