@@ -21,7 +21,7 @@ My name is Varun Nair and i am an Application Security Engineer living in Los An
 <img src="https://img.shields.io/badge/-Android-black?style=flat&logo=android"> <img src="https://img.shields.io/badge/-Flutter-3a495d?style=flat&logo=flutter&logoColor=67b7f7"> <br />
 <img src="https://img.shields.io/badge/-Machine%20Learning-102230?style=flat"> <img src="https://img.shields.io/badge/-R-black?style=flat&logo=r&logoColor=5b8cc4"> <br />
 
-###Hi, I'm Varun
+<h2 align="left">Hello, 👋 </h2>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vnairr314&label=Profile%20views&color=0e75b6&style=flat" alt="vnairr314" /> </p>
 
 
