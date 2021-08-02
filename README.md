@@ -7,6 +7,8 @@ My name is Varun Nair and i am an Application Security Engineer living in Los An
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vnairr314/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:vnairr314@gmail.com)
 
+***
+
 ### Languages & Tools
 
 ![C](https://img.shields.io/badge/-A8B9CC?style=flat&logo=c&logoColor=blue&link=cprogramming.com)
