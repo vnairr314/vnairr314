@@ -1,4 +1,6 @@
-### Hi there, I'm Varun Nair 👋
+### Hello 👋
+
+My name is Varun Nair and i am an Application Security Engineer living in Los Angeles, CA and currently working at The Home Depot. 
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
