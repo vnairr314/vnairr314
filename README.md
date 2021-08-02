@@ -1,6 +1,5 @@
 <h2 align="left">Hello, 👋 </h2>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vnairr314&label=Profile%20views&color=0e75b6&style=flat" alt="vnairr314" /> </p>
-<hr />
 
 My name is Varun Nair and i am an Application Security Engineer living in Los Angeles, CA and currently working at The Home Depot. You can find me on [![](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vnairr314/) or reach me at [![](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:vnairr314@gmail.com) 
 
