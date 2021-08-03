@@ -9,7 +9,7 @@ My name is Varun Nair and i am an Application Security Engineer living in Los An
 ![](https://img.shields.io/badge/-Python-333333?style=flat&logo=python&logoColor=yellow)
 ![](https://img.shields.io/badge/-Swift-333333?style=flat&logo=swift&logoColor=orange)
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
-![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+
 <br>
 ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=Linux&logoColor=FCC624)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
