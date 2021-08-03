@@ -11,12 +11,5 @@ My name is Varun Nair and i am an Application Security Engineer living in Los An
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
 
 <br>
-![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=Linux&logoColor=FCC624)
-![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
-![Oracle](https://img.shields.io/badge/-Oracle-333333?style=flat&logo=Oracle)
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vnairr314&label=Profile%20views&color=0e75b6&style=flat" alt="vnairr314" /> </p>
+<!---<p align="left"> <img src="https://komarev.com/ghpvc/?username=vnairr314&label=Profile%20views&color=0e75b6&style=flat" alt="vnairr314" /> </p>
