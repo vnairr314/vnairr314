@@ -1,6 +1,6 @@
 <h2 align="left">Hello, 👋 </h2>
 
-My name is Varun Nair and i am an Application Security Engineer living in Los Angeles, CA and currently working at The Home Depot. You can find me on [![](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vnairr314/) or reach me at [![](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:vnairr314@gmail.com) 
+My name is Varun Nair and i am a red team engineer living in New York, NY and currently working at TikTok. You can find me on [![](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vnairr314/) or reach me at [![](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:vnairr314@gmail.com) 
 
 <h2 align="left">Languages and Tools:</h2>
 
